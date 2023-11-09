@@ -1,4 +1,4 @@
-# A deep learning approach for classifying citrus diseases
+# A Deep Learning Approach for Classifying Citrus Diseases
 
 <br>
 <p align="center">
